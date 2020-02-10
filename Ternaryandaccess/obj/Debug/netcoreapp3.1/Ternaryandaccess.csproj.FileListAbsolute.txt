@@ -1,0 +1,11 @@
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\obj\Debug\netcoreapp3.1\Ternaryandaccess.csprojAssemblyReference.cache
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\obj\Debug\netcoreapp3.1\Ternaryandaccess.AssemblyInfoInputs.cache
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\obj\Debug\netcoreapp3.1\Ternaryandaccess.AssemblyInfo.cs
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\bin\Debug\netcoreapp3.1\Ternaryandaccess.exe
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\bin\Debug\netcoreapp3.1\Ternaryandaccess.deps.json
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\bin\Debug\netcoreapp3.1\Ternaryandaccess.runtimeconfig.json
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\bin\Debug\netcoreapp3.1\Ternaryandaccess.runtimeconfig.dev.json
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\bin\Debug\netcoreapp3.1\Ternaryandaccess.dll
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\bin\Debug\netcoreapp3.1\Ternaryandaccess.pdb
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\obj\Debug\netcoreapp3.1\Ternaryandaccess.dll
+C:\repos\TernaryandaccessSolutions\Ternaryandaccess\obj\Debug\netcoreapp3.1\Ternaryandaccess.pdb
